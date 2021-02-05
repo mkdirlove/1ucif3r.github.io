@@ -16,8 +16,7 @@
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/1ucif3r/aircrackauto?style=social" ></a>
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/1ucif3r?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/1ucif3r?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bhikandeshmukh/instarat">
-
+ 
 ###### <p align="center">*This is official repository maintained by me*
 ###### <p align="center"> *[**th3_1ucif3r**](https://www.instagram.com/th3_1ucif3r/) ❤️*
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/th3_1ucif3r)✌*
