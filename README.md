@@ -13,7 +13,7 @@
 <p align=center>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://www.instagram.com/th3_1ucif3r"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
-  <a href="https://www.instagram.com/th3_1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/1ucif3r/aircrackauto?style=social" ></a>
+  <a href="https://www.instagram.com/th3_1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/1ucif3r/1ucif3r.github.io?style=social" ></a>
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/1ucif3r?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/1ucif3r?label=Watchers&color=blue&style=flat-square"></a>
  
@@ -24,7 +24,7 @@
   
   
   
-  ### 1ucif3r.github.io
+  ### https://th31ucif3r.in/
   
   
   
